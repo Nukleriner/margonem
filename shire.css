@@ -249,7 +249,7 @@ html:before{
      background-image: url(https://i.imgur.com/5AyMG5y.gif);
      box-shadow: 0 0 5px 3px black;
 }
- #autobattleButton, #surrenderBattleButton, #autobattleAllButton #tourbattleButton{
+ #autobattleButton, #surrenderBattleButton, #autobattleAllButton, #tourbattleButton{
      background: #101a38;
      color: #349ed5;
      border: 1px outset #0d4395;
